@@ -18,6 +18,8 @@ regras de validação são:
   - Nome: não pode ser vazio
   - Data de nascimento: não pode ser data futura (dica: use @PastOrPresent)
 
+***
+
 ## CHECKLIST:
 1. Busca por id retorna cliente existente
 2. Busca por id retorna 404 para cliente inexistente
